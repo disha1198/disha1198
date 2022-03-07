@@ -1,7 +1,6 @@
-### Hi there  I am Disha Shah👋
+### Hi there,  I am Disha Shah👋
 
-
-- 🔭 I’m currently working on Javascript, Vue
-- 🌱 I’m currently learning Typescript, Angular, node.js and many more things
-- 👯 I’m looking to collaborate on any project
+Worked As a Developer Currently QA Software tester!
+- 🔭 I’m currently learning Flutter And dart And many more things.
+- 🌱 I've also learned Typescript, Angular, React.
 - 📫 How to reach me: disha.shah1198@gmail.com 
