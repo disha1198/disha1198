@@ -1,6 +1,9 @@
-### Hi there,  I am Disha Shah👋
+Hi there,  I am Disha 👋
 
 Worked As a Developer Currently QA Software tester!
-- 🔭 I’m currently learning Flutter,dart And many more things.
-- 🌱 I've also learned Typescript, Angular, React.
-- 📫 How to reach me: disha.shah1198@gmail.com 
+🌱 currently learning Flutter,dart And many more things.
+🎢 Familer with Typescript, Javascript, Angular, React.
+⚡ Fun fact: I love to sketch
+📫 How to reach me: disha.shah1198@gmail.com 
+
+
