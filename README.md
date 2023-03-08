@@ -1,6 +1,6 @@
 Hi there,  I am Disha 👋
 
-Worked As a Developer Currently QA Software tester!
+Worked As a Developer Currently QA Devloper/ Software tester!
 
 🌱  learning Flutter,dart And many more things.
 
